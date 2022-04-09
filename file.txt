@@ -1,0 +1,9 @@
+welcome to git hub
+file repoo
+gitinit
+gitclone
+git grep
+git cat
+git tac
+git head 
+git tail
