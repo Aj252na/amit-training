@@ -1,5 +1,6 @@
 welcome to git hub
 file repoo
+git bash command
 gitinit
 gitclone
 git grep
@@ -7,3 +8,4 @@ git cat
 git tac
 git head 
 git tail
+git grep wnv
